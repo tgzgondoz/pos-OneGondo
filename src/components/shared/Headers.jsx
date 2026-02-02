@@ -8,7 +8,7 @@ const Headers = () => {
     <header className="flex justify-between items-center py-4 px-4 px-6 bg-[#1a1a1a]">
       {/*LOGO*/}
       <div className="flex items-center gap-2">
-        <img src="logo" className="h-8 w-8" alt="OneGondo logo" />
+        <img src=".assets/images/logo.png" className="h-8 w-8" alt="OneGondo logo" />
         <h1 className="text-lg font-semibold text-[#f5f5f5]">OneGondo</h1>
       </div>
 
