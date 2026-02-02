@@ -1,8 +1,7 @@
 import React, { useState } from "react";
-import BottomNav from "../components/shared/BottomNav";
-import OrderCard from "../components/shared/Orders/OrderCard";
+import OrderCard from "../components/Orders/OrderCard";
 import BackButton from "../components/shared/BackButton";
-
+import BottomNav from "../components/shared/BottomNav";
 const Orders = () => {
 
   const [status, setStatus] =useState("all");
